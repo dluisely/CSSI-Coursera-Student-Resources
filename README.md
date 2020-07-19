@@ -1,1 +1,1 @@
-# CSSI-Coursera-Student-Resources
+# CSSI-Coursera Student Resources
